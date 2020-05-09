@@ -1,1 +1,73 @@
 https://codepen.io/jhoyt200931/pen/rNOdPGQ
+
+1. What is Semantic HTML? 
+	Semantic HTML is marking your elements in a way that gives them meaning. Which helps with readability.
+
+2. What is HTML used for?
+	HTML is a markup language and is used to load content onto a page.
+ 
+3. What is an attribute and where do we put it? 
+	An attribute is a way to provide additional information about an element and it is always located in the start tag of the element.
+
+4. What is the h1 tag used for? How many times should I use it on a page?
+	The h1 tag is used to denote the headline on a page and should only be used once.
+
+5. Name two tags that have required attributes
+	The <img/> and <a> tags require attributes.
+
+6. What do we put in the head of our HTML document?
+	We put things we don't want on the page itself in the head of the HTML document, such as the title the browser tab should display.
+ 
+7. What is an id?
+	An id is a way to specify a unique element.
+ 
+8. What elements can I add an id to?
+	The id should only be added a single element that needs to be uniquely specified.
+ 
+9. How many times can I use the same id on a page?
+	ONLY 1.
+ 
+10. What is a class?
+	A class is a way to identify a group of elements.
+ 
+11. What elements can I add a class to? 
+	A class can be added to any type of element.
+
+12. How many times can I use the same class on a page? 
+	You can use the same class as many times as needed on the page.
+
+13. How do I get my link to open in a new tab?
+	command + click on MacOS, CTRL + Click on windows.
+
+14. What is the alt attribute in the image tag used for? 
+	The alt attribute in the image tag is used to specify alternate text for an image if it cannot be displayed.
+
+15. How do I reference an id?
+	An id is referenced with #idName.
+
+16. What is the difference between a section and a div
+	A div is presentational HTML and a section is Semantic HTML.
+
+17. What is CSS used for? 
+	CSS is used to style HTML elements on a page.
+
+18. How to we select an element? Example - every h2 on the page
+19. What is the difference between a class and an id? - Give me an example of when I might use each one
+20. How do we select classes in CSS?
+21. How do we select a p element with a single class of “human””?
+22. What is a parent child selector? When would this be useful? 
+23. How do you select all links within a div with the class of sidebar?
+24. What is a pseudo selector?
+25. What do we use the change the spacing between lines?
+26. What do we use to change the spacing between letters?
+27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
+28. How do I add a 1px border around my div that is dotted and black?
+29. How do I select everything on the page? 
+30. How do I write a comment in CSS?
+31. How do I find out what file I am in, when I am using the command line? 
+32. Using the command line - how do I see a list of files/folders in my current folder?
+33. How do I remove a file via the command line? Why do I have to be careful with this? 
+34. Why should I use version control? 
+35. How often should I commit to github?
+36. What is the command we would use to push our repo up to github? 
+37. Walk me through Lambda's git flow. 
