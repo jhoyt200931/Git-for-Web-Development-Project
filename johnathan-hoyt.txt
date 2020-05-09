@@ -133,4 +133,5 @@ Stretch Questions
 Block: <div>, <section>, <footer>. Inline: <span>, <a>. Inline-Block: <img>
 
 5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
-	
+	The box model is a box that wraps around an element and includes the margin, padding, border and content. It's like packing up the content in a cardboard box. When setting these properties, it is important to take into account the space that the margin, border and padding take up as well, not just the content.
+	The box-sizing property can be used to "fix" the box model and make all elements respect the width given to them.
