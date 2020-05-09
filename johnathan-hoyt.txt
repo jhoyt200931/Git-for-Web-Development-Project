@@ -89,10 +89,48 @@ https://codepen.io/jhoyt200931/pen/rNOdPGQ
 	The wildcard selector * {} can be used to select everything on the page.
  
 30. How do I write a comment in CSS?
-31. How do I find out what file I am in, when I am using the command line? 
+	A comment can be written in CSS using /* */
+
+31. How do I find out what file I am in, when I am using the command line?
+	pwd can be used to display the path to the current directory/file.
+ 
 32. Using the command line - how do I see a list of files/folders in my current folder?
-33. How do I remove a file via the command line? Why do I have to be careful with this? 
-34. Why should I use version control? 
+	ls displays the list of files/folders in the current folder
+
+33. How do I remove a file via the command line? Why do I have to be careful with this?
+	rm "fileName" removes a file via command line. You have to be careful with this because there are no warnings when removing the file and it does not go to trash or recycling bin. It is removed permanently.
+ 
+34. Why should I use version control?
+	Version control should be used to keep track of changes in code and to assist in debugging code or returning to previous versions if buggy code is introduced.
+ 
 35. How often should I commit to github?
-36. What is the command we would use to push our repo up to github? 
+	You should commit to GitHub any time changes are made to code.
+
+36. What is the command we would use to push our repo up to github?
+	git push 
 37. Walk me through Lambda's git flow. 
+	1. FORK the project
+	2. Add your TL as a collaborator
+	3. Clone the project
+	4. Create a branch using git checkout -b "firstname-lastname"
+	5. Work on your Repo (make sure to add and commit often)
+	6. Push the changes to your GitHub using git push -u origin branch-name
+	7. Submit a pull request and add your TL as a reviewer.
+
+
+Stretch Questions
+
+1. What is the difference between an inline element and a block element?
+
+
+2. What happens when an element is positioned absolutely?
+
+ 
+3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width?
+
+ 
+4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
+
+
+5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
+
